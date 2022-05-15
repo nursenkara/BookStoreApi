@@ -10,12 +10,12 @@ Bir internet sitesindeki kitap kategorisini örnek alarak bir web api oluşturdu
 # Endpoints
 |HTTP|URL|METOT|
 |---|---|---|
-|GET| https://localhost:44348/api/v1/Books |GetBooks|
-|GET| https://localhost:44348/api/v1/Books/{id} |GetById|
-|GET| https://localhost:44348/api/v1/Books/Search |Search|
-|PUT| https://localhost:44348/api/v1/Books?id={id} |UpdateBook|
-|POST| https://localhost:44348/api/v1/Books |AddBook|
-|DELETE| https://localhost:44348/api/v1/Books?id={id} |DeleteBook|
+|GET| https://localhost:44394/api/v1/Books |GetBooks|
+|GET| https://localhost:44394/api/v1/Books/{id} |GetById|
+|GET| https://localhost:44394/api/v1/Books/Search |Search|
+|PUT| https://localhost:44394/api/v1/Books?id={id} |UpdateBook|
+|POST| https://localhost:44394/api/v1/Books |AddBook|
+|DELETE| https://localhost:44394/api/v1/Books?id={id} |DeleteBook|
 
 
 
